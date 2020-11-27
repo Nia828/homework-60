@@ -1,0 +1,39 @@
+body {
+
+    text-align: center;
+    background: linear-gradient(#F0F4C3 0%, #FFCCBC 100%);
+    font-family: monospace;
+    font-size: 20px;
+        
+}
+
+
+html {
+    scroll-behavior: smooth;
+    
+    
+}
+img {
+
+    padding: 100px;
+    width: 600px;
+    height: 450px;
+    border-radius: 100px;
+        
+
+
+}
+
+
+li {
+    float: right;
+    
+    
+}
+
+a {
+
+    padding: 10px;
+    background-color: azure;
+    
+    
